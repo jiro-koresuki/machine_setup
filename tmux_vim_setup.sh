@@ -200,3 +200,5 @@ set statusline=%f\ %y\ [%l/%L]\ %p%%\ \|\ yy:Copy\ p:Paste\ dd:Cut\ ggVG:AllSel\
 "
 " =========================
 EOF_VIM
+
+https://u.pcloud.link/publink/show?code=XZj0aD5ZCXLFfepy2xLPdrlEnK1qn5kAcfYy
